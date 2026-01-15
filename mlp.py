@@ -4,7 +4,7 @@ import torch.optim as optim
 import numpy as np
 import random
 
-def set_seed(seed=42):
+def set_seed(seed=42): 
     '''
     Sets the random seed for reproducibility.
     '''
